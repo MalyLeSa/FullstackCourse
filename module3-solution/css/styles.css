@@ -1,0 +1,17 @@
+body{
+  font-family: 'Yusei Magic', sans-serif;
+}
+
+#header-nav {
+  border-radius: 0;
+  background-color: #5bc0be;
+  color: #0b132b;
+  /*0b132b 1c2541 3a506b 6fffe9*/
+}
+
+.navbar-brand h1{
+  padding-top: 5px;
+  padding-bottom: 5px;
+  margin: 0;
+  font-size: 28px;
+}
